@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="P2 - Grid Safety First"
+    id="id-983c6412286a42f5829dcfb14bde8664"
+    documentation="Grid stability and reliability take absolute precedence over any agent's economic objective. The Utility Governance Layer may override all agents at any time to protect infrastructure."/>

@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="P7 - Explainability Mandate"
+    id="id-74b469557e544cd6a869bf543f6a2c6c"
+    documentation="Every significant agent decision is logged with a machine-readable justification the state at decision time, the rule applied, and the expected outcome."/>

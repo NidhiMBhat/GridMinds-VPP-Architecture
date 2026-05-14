@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Centralized control is too slow for peak loads"
+    id="id-e8ad93b096b243edbc6919e366d7fd8d"
+    documentation="Cloud cover can drop rooftop solar output by 60-80% in under 10 seconds. The current centralized dispatch system takes 30 to 90 seconds to respond. In that gap, the grid destabilizes, forcing the use of fossil-fuel backup generators"/>

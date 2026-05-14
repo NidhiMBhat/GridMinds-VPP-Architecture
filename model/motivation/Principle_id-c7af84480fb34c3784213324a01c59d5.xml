@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="P4 - Immutable Audit Trail"
+    id="id-c7af84480fb34c3784213324a01c59d5"
+    documentation="Every energy transaction between agents is recorded on the distributed ledger. No transaction can be altered or deleted after the fact."/>

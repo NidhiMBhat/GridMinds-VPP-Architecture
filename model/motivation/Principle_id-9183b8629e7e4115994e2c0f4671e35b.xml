@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="P6 - Graceful Degradation"
+    id="id-9183b8629e7e4115994e2c0f4671e35b"
+    documentation="If individual agents fail, lose connectivity, or behave anomalously, the system continues operating safely. No single agent failure cascades to a grid outage."/>

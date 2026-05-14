@@ -1,0 +1,5 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Homeowners"
+    id="id-6e8199a206884588b57f9c3a65902e16"
+    documentation="Residential 'prosumers' who have invested in rooftop solar panels and home battery storage. They want to maximize the return on their hardware investment by trading surplus energy locally, while strictly ensuring they maintain enough backup power for themselves during grid outages."/>

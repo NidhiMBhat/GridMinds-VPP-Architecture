@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sends Sensor Data"
+    id="id-ec2c981d20564f449b4c07d63a09c188">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-3f1274d80f844ed6a45f8b26493fbc74.xml#id-3f1274d80f844ed6a45f8b26493fbc74"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-3d81fd7176c247c5a97c01e2f3259630.xml#id-3d81fd7176c247c5a97c01e2f3259630"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deploy Autonomous Agentic VPP"
+    id="id-4779c57ce93948f9bd2c0ab725f32c00"
+    documentation="Implement an edge-computed network of autonomous AI agents governed by a central utility layer. These agents will make sub-second, local peer-to-peer energy trading decisions to prevent latency and eliminate wasted capacity."/>

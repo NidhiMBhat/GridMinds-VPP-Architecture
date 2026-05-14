@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="P1 - Autonomy with Bounded Rationality"
+    id="id-bf27c1012fc0456db20e91df4d1c040a"
+    documentation="Agents make local decisions autonomously. They cannot violate hard limits on price, safety, and battery reserve, even if doing so would increase profit."/>
