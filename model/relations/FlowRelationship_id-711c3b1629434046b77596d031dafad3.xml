@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Local P2P Energy Trading"
+    id="id-711c3b1629434046b77596d031dafad3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ba19d6a861de43d0b1d90444d4abb630.xml#id-ba19d6a861de43d0b1d90444d4abb630"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ba19d6a861de43d0b1d90444d4abb630.xml#id-ba19d6a861de43d0b1d90444d4abb630"/>
+</archimate:FlowRelationship>

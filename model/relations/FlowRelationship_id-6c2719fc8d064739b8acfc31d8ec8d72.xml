@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Issues Emergency Override Trigger"
+    id="id-6c2719fc8d064739b8acfc31d8ec8d72">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-f3ea7d134afb4dcbafa11ed20c08adb6.xml#id-f3ea7d134afb4dcbafa11ed20c08adb6"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-f47c4bf609f646188248775a04291ade.xml#id-f47c4bf609f646188248775a04291ade"/>
+</archimate:FlowRelationship>

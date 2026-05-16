@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Approves (If battery > 30%)"
+    id="id-cdcef95bd75347c7b594127c4c3a84ce">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f349a6e58ef74278972edd4be1f3b913.xml#id-f349a6e58ef74278972edd4be1f3b913"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-2c778f9487e74bbdbc67edb6de58b5b8.xml#id-2c778f9487e74bbdbc67edb6de58b5b8"/>
+</archimate:FlowRelationship>

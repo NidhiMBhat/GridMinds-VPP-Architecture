@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provides Aggregated Grid Stability"
+    id="id-3b9b201f593e4f8aaa1bc8ed3fb3ea2f">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-f47c4bf609f646188248775a04291ade.xml#id-f47c4bf609f646188248775a04291ade"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-f3ea7d134afb4dcbafa11ed20c08adb6.xml#id-f3ea7d134afb4dcbafa11ed20c08adb6"/>
+</archimate:ServingRelationship>

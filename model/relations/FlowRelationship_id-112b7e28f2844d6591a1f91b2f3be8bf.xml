@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logs Transaction Data"
+    id="id-112b7e28f2844d6591a1f91b2f3be8bf">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ba19d6a861de43d0b1d90444d4abb630.xml#id-ba19d6a861de43d0b1d90444d4abb630"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-dd10f29385824e1b9554665e393343c5.xml#id-dd10f29385824e1b9554665e393343c5"/>
+</archimate:FlowRelationship>

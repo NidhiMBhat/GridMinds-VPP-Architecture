@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enforces Battery Reserves &amp; Price Bounds"
+    id="id-cc5a192caa16416cb06fe16524da1e9f">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-f47c4bf609f646188248775a04291ade.xml#id-f47c4bf609f646188248775a04291ade"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ba19d6a861de43d0b1d90444d4abb630.xml#id-ba19d6a861de43d0b1d90444d4abb630"/>
+</archimate:ServingRelationship>

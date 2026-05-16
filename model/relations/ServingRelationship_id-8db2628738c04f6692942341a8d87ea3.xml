@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Requests Trade Approval"
+    id="id-8db2628738c04f6692942341a8d87ea3">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-2c778f9487e74bbdbc67edb6de58b5b8.xml#id-2c778f9487e74bbdbc67edb6de58b5b8"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f349a6e58ef74278972edd4be1f3b913.xml#id-f349a6e58ef74278972edd4be1f3b913"/>
+</archimate:ServingRelationship>
