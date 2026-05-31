@@ -1,0 +1,55 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Master View 3: Baseline Architecture"
+    id="id-b91ab29be2dc44b6bd5312dfa0642e68">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-e9363e6ffa664a96837a1bc544f996b0"
+      font="1|Arial Unicode MS|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Arial Unicode MS"
+      textAlignment="1"
+      fillColor="#facdb8"
+      content="LATENCY BOTTLENECK: Centralized dispatch takes 30-90 seconds to respond. Cannot handle sub-minute solar drops, forcing the grid to burn fossil fuels.&#xD;&#xA;">
+    <sourceConnections
+        id="id-8f769009cf50461f9aa88fb6937849cd"
+        source="id-e9363e6ffa664a96837a1bc544f996b0"
+        target="id-281c613ab51b4ccfb9ec7f3cccaea1cc"/>
+    <bounds
+        x="336"
+        y="96"
+        width="282"
+        height="100"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-281c613ab51b4ccfb9ec7f3cccaea1cc"
+      targetConnections="id-8f769009cf50461f9aa88fb6937849cd"
+      font="1|Arial Unicode MS|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Arial Unicode MS"
+      textAlignment="1"
+      fillColor="#facdb8"
+      content="WASTED CAPACITY: No P2P mechanism. Full batteries cannot sell to neighbors, destroying economic value and forcing neighbors to draw from the grid.&#xD;&#xA;">
+    <sourceConnections
+        id="id-b0d178246b224324bbd94359a2d3784a"
+        source="id-281c613ab51b4ccfb9ec7f3cccaea1cc"
+        target="id-ab5c821e6ef64f2ea4e9d10ed9bb8855"/>
+    <bounds
+        x="336"
+        y="228"
+        width="282"
+        height="94"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ab5c821e6ef64f2ea4e9d10ed9bb8855"
+      targetConnections="id-b0d178246b224324bbd94359a2d3784a"
+      font="1|Arial Unicode MS|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|34|Arial Unicode MS"
+      textAlignment="1"
+      fillColor="#facdb8"
+      content="SCALABILITY FAILURE: Manual workflows and proprietary central databases cannot scale to process telemetry from millions of DER nodes.">
+    <bounds
+        x="336"
+        y="360"
+        width="282"
+        height="85"/>
+  </children>
+</archimate:ArchimateDiagramModel>

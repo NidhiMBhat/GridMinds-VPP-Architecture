@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hosts Blockchain Nodes"
+    id="id-73b1f8be43004f15aef0c91cfe64ab4d">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-349fcb1547bd4c5fb04880bc0550c131.xml#id-349fcb1547bd4c5fb04880bc0550c131"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-dd10f29385824e1b9554665e393343c5.xml#id-dd10f29385824e1b9554665e393343c5"/>
+</archimate:RealizationRelationship>

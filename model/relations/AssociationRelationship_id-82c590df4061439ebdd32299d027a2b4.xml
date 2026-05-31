@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reads telemetry "
+    id="id-82c590df4061439ebdd32299d027a2b4">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_id-284d52946975474d8c8f7efbbde40757.xml#id-284d52946975474d8c8f7efbbde40757"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-bc6ee4d6c6154acc932fed37e72d4ae5.xml#id-bc6ee4d6c6154acc932fed37e72d4ae5"/>
+</archimate:AssociationRelationship>

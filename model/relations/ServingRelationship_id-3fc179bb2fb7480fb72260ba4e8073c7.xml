@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provides Grid Visibility &amp; Emergency Override"
+    id="id-3fc179bb2fb7480fb72260ba4e8073c7">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-f47c4bf609f646188248775a04291ade.xml#id-f47c4bf609f646188248775a04291ade"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-4fce8c9548e84a20b12ed94d94c8648d.xml#id-4fce8c9548e84a20b12ed94d94c8648d"/>
+</archimate:ServingRelationship>
